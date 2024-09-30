@@ -1,0 +1,24 @@
+.login-form {
+    border-radius: 15px; 
+}
+
+.form-label {
+    font-weight: 500; 
+    color: #333; 
+}
+
+.btn-primary {
+    background-color: #007bff; 
+    border: none;
+    padding: 10px; 
+    border-radius: 5px; 
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; 
+}
+
+input:focus {
+    border-color: #007bff; 
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25); 
+}
